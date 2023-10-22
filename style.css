@@ -5,7 +5,8 @@ body {
     margin: 0;
     background-image: url(https://www.best4webdesign.com/wp-content/uploads/2020/04/animated-css-background-generator.jpg);
     background-repeat: repeat;
-    background-size:contain;
+    background-size: contain;
+    height: 100vh;
 }
 .calculator {
     background-color: #333;
