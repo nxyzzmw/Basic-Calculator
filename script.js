@@ -12,6 +12,6 @@ function calculateResult() {
     try {
         display.value = eval(display.value);
     } catch (error) {
-        display.value = "What a mathematical genius you are!" ;
+        display.value = "ERROR" ;
     }
 }
